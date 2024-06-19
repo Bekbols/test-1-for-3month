@@ -1,0 +1,9 @@
+.block {
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
